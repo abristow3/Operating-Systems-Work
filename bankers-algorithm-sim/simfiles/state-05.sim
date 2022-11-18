@@ -1,0 +1,17 @@
+# number of processes / number of resources
+4 3
+
+# total Resources vector R
+5 5 5
+
+# Claim matrix C
+5 5 5
+5 5 5
+5 5 5
+1 1 1
+
+# Allocation matrix A
+1 1 1
+1 1 1
+1 1 1
+0 0 0
