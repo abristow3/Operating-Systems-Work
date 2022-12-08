@@ -1,0 +1,31 @@
+Time slice quantum: 1
+runSimulation()> systemTime: 0
+runSimulation()> systemTime: 1
+runSimulation()> systemTime: 2
+runSimulation()> systemTime: 3
+runSimulation()> systemTime: 4
+runSimulation()> systemTime: 5
+runSimulation()> systemTime: 6
+runSimulation()> systemTime: 7
+runSimulation()> systemTime: 8
+runSimulation()> systemTime: 9
+runSimulation()> systemTime: 10
+runSimulation()> systemTime: 11
+runSimulation()> systemTime: 12
+runSimulation()> systemTime: 13
+runSimulation()> systemTime: 14
+runSimulation()> systemTime: 15
+runSimulation()> systemTime: 16
+runSimulation()> systemTime: 17
+runSimulation()> systemTime: 18
+runSimulation()> systemTime: 19
+0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 
+  A  A  A  B  B  B  B  B  B  C  C  C  C  D  D  D  D  D  E  E  
+
+Name Arrv T_s  Strt End  T_r  T_r / T_s
+A    0    3    0    3    3    1.0000  
+B    2    6    3    9    7    1.1667  
+C    4    4    9    13   9    2.2500  
+D    6    5    13   18   12   2.4000  
+E    8    2    18   20   12   6.0000  
+

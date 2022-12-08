@@ -1,0 +1,3 @@
+Time slice quantum: 4
+Error: Unknown scheduling policy: RR
+  current valid policies: FCFS

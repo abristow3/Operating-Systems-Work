@@ -1,0 +1,3 @@
+Time slice quantum: 1
+Error: Unknown scheduling policy: SPN
+  current valid policies: FCFS
